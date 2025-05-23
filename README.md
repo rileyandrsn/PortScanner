@@ -12,9 +12,9 @@ Python 3.x
 
 Python Libraries:
 
-- socket
-
 - sys
+  
+- socket
 
 **Installation**
 
@@ -42,6 +42,7 @@ Port 499 closed
 **Future Updates**
 
 - Multithreaded scanning for faster scanning.
+  
 - GUI interface for users to specifiy a target IP address and range of ports.
 
 **Disclaimer**
