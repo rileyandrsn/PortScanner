@@ -12,9 +12,9 @@ Python 3.x
 
 Python Libraries:
 
--socket
+- socket
 
--sys
+- sys
 
 **Installation**
 
