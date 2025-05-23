@@ -1,6 +1,6 @@
 **Python Port Scanner**
 
-Python script scanning TCP ports on an IP address. By default, it scans scanme.nmap.org across ports 1–499 and reports whether each port is open or closed.
+Python script scanning TCP ports on an IP address. By default, it scans scanme.nmap.org across ports 1–499 and reports whether each port is open or closed. 
 
 **How It Works**
 
