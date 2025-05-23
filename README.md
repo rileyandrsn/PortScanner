@@ -9,16 +9,22 @@ Establishes a TCP connection using Python's Socket module. If the connection is 
 **Requirements**
 
 Python 3.x
+
 Python Libraries:
+
 -socket
 -sys
 
 **Installation**
 
 Clone the repository:
+
 git clone https://github.com/rileyandrsn/PortScanner.git
+
 cd PortScanner
+
 Run the script:
+
 python3 portScanner.py
 
 
